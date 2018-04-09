@@ -1,0 +1,8 @@
+﻿[Neo4j Trenbe Procedure] 
+
+1. trenbe.convert.toTree(paths, "children")
+ - "children" 으로 출력할 Relationhip 명 지정
+
+
+
+
